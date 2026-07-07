@@ -175,8 +175,8 @@ hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Death
 hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Respawn), function() end)
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 Window = Fluent:CreateWindow({
-    Title = "Banana Cat Hub",
-    SubTitle="by Quang67 [Free]", 
+    Title = "Banana Cat Hub - Blox Fruit [Free]",
+    SubTitle="by Obii", 
     TabWidth=155, 
     Theme="Darker",
     Acrylic=false,
